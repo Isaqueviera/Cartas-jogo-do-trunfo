@@ -21,7 +21,4 @@ gcc jogo-do-triunfo.c -o jogo-do-triunfo.exe
 &nbsp;
 &nbsp;
 
-Feito por: Isaque Vieira
-&nbsp;
 
-Contato: 12996096332
