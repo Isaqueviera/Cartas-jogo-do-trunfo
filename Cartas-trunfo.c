@@ -16,7 +16,7 @@ int main() {
     getchar();
     printf("Codigo da Carta (ex: A01): ");
     fgets(codigo1, sizeof(codigo1), stdin);
-    codigo1[strcspn(codigo1, "\n")] = '\0'; // remove o '\n' no final
+    codigo1[strcspn(codigo1, "\n")] = '\0'; 
     printf("Nome da Cidade: ");
     fgets(cidade1, sizeof(cidade1), stdin);
     cidade1[strcspn(cidade1, "\n")] = '\0';
