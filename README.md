@@ -1,6 +1,7 @@
 # Criando cartas para o jogo do trunfo
 
-Este projeto em C pede ao usuário os seguintes dados de um determinado país, para criar cartas que poderão ser usadas em outro projeto para fazer um jogo do trunfo:
+Este projeto em C solicita ao usuário informações sobre diferentes países, cria cartas com esses dados e compara seus atributos para determinar o vencedor.
+
 - Estado (A-H)  
 - Código da Carta (ex: A01, B02)  
 - Nome da Cidade  
